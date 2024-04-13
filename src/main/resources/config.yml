@@ -1,0 +1,9 @@
+enabled-worlds:
+  - lobby
+  - buildffa
+  - knockffa
+
+disabled-blocks:
+  - 65
+  - 92
+  - 21

@@ -1,0 +1,7 @@
+name: WorldProtection
+author: Fiji
+version: "1.0.0"
+api: ["1.0.5"]
+main: com.archiecraft.worldprotection
+description: A world protection plugin that prevents players from griefing
+loadbefore: ["WorldProtection"]
